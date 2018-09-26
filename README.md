@@ -11,3 +11,4 @@ To use this template, scaffold a project with vue-cli. It is recommended to use 
 ## cd my-project
 ## # npm install
 ## $ npm run dev
+https://madewithvuejs.com/blog/top-vuetify-tutorials
